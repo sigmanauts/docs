@@ -1,0 +1,18 @@
+| Title | Link |
+|-------|------|
+| Essential Ergo dApps Discussion | [https://app.paideia.im/Sigmanauts/discussion/ergo-ecosystem-vital-systems-and-projects-37414603-3764-47f7-b975-1149e433ccd5](https://app.paideia.im/Sigmanauts/discussion/ergo-ecosystem-vital-systems-and-projects-37414603-3764-47f7-b975-1149e433ccd5) |
+| Weekly Agenda | [https://docs.google.com/document/d/1WZe-3P1RRcqJewctzTy0f21O-HFNU8N_yp216eCACiY/edit?usp=drivesdk](https://docs.google.com/document/d/1WZe-3P1RRcqJewctzTy0f21O-HFNU8N_yp216eCACiY/edit?usp=drivesdk) |
+| Sigmanauts Skills Sheet | [https://docs.google.com/spreadsheets/d/1AuLi8HECk488tKbAxfmEUrGD_DSdAxw9usZm48kNQ7U/edit?usp=drivesdk](https://docs.google.com/spreadsheets/d/1AuLi8HECk488tKbAxfmEUrGD_DSdAxw9usZm48kNQ7U/edit?usp=drivesdk) |
+| Sigmanaut Structure, Participation, & Expectations | [https://docs.google.com/document/d/1v1AhGr7cRMk9uP-d9SUmUu9aDJ06rHfuiUKvghXFpa4/edit](https://docs.google.com/document/d/1v1AhGr7cRMk9uP-d9SUmUu9aDJ06rHfuiUKvghXFpa4/edit) |
+| Sigmanauts Member Directory | [https://github.com/sigmanauts/docs/blob/main/member_directory.md](https://github.com/sigmanauts/docs/blob/main/member_directory.md) |
+| Sigmanauts Working Folder | [https://drive.google.com/drive/folders/1tlPnzewmn-fTp7BmUS3TC9UZei3dqdY4?usp=share_link](https://drive.google.com/drive/folders/1tlPnzewmn-fTp7BmUS3TC9UZei3dqdY4?usp=share_link) |
+| Sigmanauts Style Kit | [https://drive.google.com/drive/folders/1JMwqZXF6mFEULU9Yhj3ALojc-bV4LNVN?usp=share_link](https://drive.google.com/drive/folders/1JMwqZXF6mFEULU9Yhj3ALojc-bV4LNVN?usp=share_link) |
+| sigmanauts.com | [https://sigmanauts.com/](https://sigmanauts.com/) |
+| Sigs Mining Pool | [https://sigmanauts.com/mining/](https://sigmanauts.com/mining/) |
+| Discord and Telegram Security Framework for Projects | [https://docs.google.com/document/d/1J7S_NttOUzXJNg9TD_4K1zDkSJBGXugjGK5sUBsmXFk/edit](https://docs.google.com/document/d/1J7S_NttOUzXJNg9TD_4K1zDkSJBGXugjGK5sUBsmXFk/edit) |
+| Onboarding Doc | [https://sideways-stove-8c5.notion.site/Sigmanauts-Onboarding-08e8577d5f0b420fae04d496522f8fb2](https://sideways-stove-8c5.notion.site/Sigmanauts-Onboarding-08e8577d5f0b420fae04d496522f8fb2) |
+| Sigmanauts DAO | [https://app.paideia.im/Sigmanauts](https://app.paideia.im/Sigmanauts) |
+| Sigmanauts Taiga | [https://tree.taiga.io/project/glasgowm148-sigmanauts](https://tree.taiga.io/project/glasgowm148-sigmanauts) |
+| sigmanauts.com GitHub Repository | [https://github.com/cafebedouin/sigmanauts](https://github.com/cafebedouin/sigmanauts) |
+| Sig-Can Applications | [https://my.ergoport.dev/cgi-bin/ergo/list_votes.pl?a=](https://my.ergoport.dev/cgi-bin/ergo/list_votes.pl?a=) |
+| Regional Spaces | [https://sideways-stove-8c5.notion.site/4d1f00443f2a4a4b8cb45d7fbf807a94?v=8fdde27611e34a55bd42bd551594a7b2](https://sideways-stove-8c5.notion.site/4d1f00443f2a4a4b8cb45d7fbf807a94?v=8fdde27611e34a55bd42bd551594a7b2) |
