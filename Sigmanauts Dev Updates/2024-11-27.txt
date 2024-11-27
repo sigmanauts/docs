@@ -20,4 +20,4 @@ Luivatra has ported ErgoTipperBot to Bluesky, it works great! link: https://bsky
 
 Sigmanauts.com has had some minor updates and improvements. Publication of the weekly Sigs meetings transcripts will resume, and last week's is available now. The miner lookup for the Sigmanauts mining pool has been moved to its own page, to simplify the mining page. 
 
-Want to help add to these Sig-Updates? Feel free to add to 
+Want to help add to these Sig-Updates? Feel free to add to https://github.com/sigmanauts/docs/tree/main/Sigmanauts%20Dev%20Updates
