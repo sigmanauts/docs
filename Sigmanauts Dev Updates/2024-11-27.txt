@@ -14,6 +14,8 @@ Wombo will be using Ergo Raffle to fund and initiative, trying to get more use c
 
 The Sigamanust DAO proposal to make supERGeometry (running Sigmanauts X profile, and is killing it!) a Sigmanaut is ACTIVE! Sigmanauts please go vote here: https://app.paideia.im/sigmanauts/proposal/supergeometry-for-sigmanaut-86ce299e-b9dc-4c80-8eac-35c79e5ae617
 
+Cannonq is looking for Sigs input on forming an entity for the DAO. He has all the info ready, and leaning towards Marshall Islands. Please contact him if you are interested in this subject.
+
 The Sigs have setup a Bluesky account, please support over there if you can. Sigmanauts bsky: https://bsky.app/profile/sigmanauts.com Ergo Platform bsky: https://bsky.app/profile/ergoplatform.org
 
 Luivatra has ported ErgoTipperBot to Bluesky, it works great! link: https://bsky.app/profile/ergotipperbot.bsky.social
