@@ -1,0 +1,23 @@
+Sigmanauts Update | November 27, 2024
+
+This week, the Sigmanauts welcomed two new Sig-Cans: Fitz and Geronimo. 
+
+Geronimo has offered to help with front end development on the Sigmanauts mining pool, and is open to help with other development as well. 
+
+The Sigmanauts have moved from the beta-Paideia DAO to mainnet Paideia. Reminder to all Sigs to un-stake in beta and re-stake over in mainnet Paideia.
+
+qx has successfully sent beta-Paideia treasury funds to mainnet Paideia.
+
+The main treasury multi-sig will be transferrring all of the treasury funds to the new multisig address, which will be controlled by Luivatra, Cannonq, Marc the Shark, Jake the Snake, Grayman, CW, qx().
+
+Wombo will be using Ergo Raffle to fund and initiative, trying to get more use cases for rsErg on Cardano. Please keep an eye on Ergo Raffle and contribute if you can. Details can be found here: https://beta.paideia.im/Sigmanauts/discussion/fund-danzo-casino-cbfecb10-5fbd-4167-9877-e771fcbf9d03
+
+The Sigamanust DAO proposal to make supERGeometry (running Sigmanauts X profile, and is killing it!) a Sigmanaut is ACTIVE! Sigmanauts please go vote here: https://app.paideia.im/sigmanauts/proposal/supergeometry-for-sigmanaut-86ce299e-b9dc-4c80-8eac-35c79e5ae617
+
+The Sigs have setup a Bluesky account, please support over there if you can. Sigmanauts bsky: https://bsky.app/profile/sigmanauts.com Ergo Platform bsky: https://bsky.app/profile/ergoplatform.org
+
+Luivatra has ported ErgoTipperBot to Bluesky, it works great! link: https://bsky.app/profile/ergotipperbot.bsky.social
+
+Sigmanauts.com has had some minor updates and improvements. Publication of the weekly Sigs meetings transcripts will resume, and last week's is available now. The miner lookup for the Sigmanauts mining pool has been moved to its own page, to simplify the mining page. 
+
+Want to help add to these Sig-Updates? Feel free to add to 
