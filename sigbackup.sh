@@ -1,12 +1,18 @@
 #I know there are better ways to do this, but this is just how i keep a backup of the repos here, just in case I mess up or something.
-
 #!/bin/bash
 
 today=$(date +%F)
 
-mkdir "sigbackup-$today"
+backup_dir="sigbackup-$today"
 
-cd "sigbackup-$today" || exit
+if [ -d "$backup_dir" ]; then
+  timestamp=$(date +%H%M%S)
+  backup_dir="sigbackup-${today}-$timestamp"
+fi
+
+mkdir "$backup_dir"
+
+cd "$backup_dir" || exit
 
 org="sigmanauts"
 api_url="https://api.github.com/orgs/$org/repos?per_page=100"
