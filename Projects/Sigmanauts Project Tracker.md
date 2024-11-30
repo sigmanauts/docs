@@ -278,9 +278,9 @@ Sigmanauts Mining Pool and [DAO](https://beta.paideia.im/sigmanautsminingdao)
 In progress  
 
 **Team Members:**  
-- Marc the Shark: Server admin, core developer, lead dashboard developer of [ErgoMiners](http://ergominers.com/) 
+- Marc the Shark: Server admin, lead developer, lead dashboard developer of [ErgoMiners](http://ergominers.com/) 
 - qx(): Server admin, core developer, advisor, dashboard developer [Simple Dash](https://my.ergoport.dev/cgi-bin/mining/mining_SR_mts.html)
-- cannon: Marketing, community management, advisor 
+- cannon: Marketing, community management, advisor, treasurer
 - rustinmyeye: Managing [landing page](https://sigmanauts.com/mining) and [worker lookup](https://sigmanauts.com/dash) on Sigs site.  
 
 **Help Needed:**  
