@@ -240,7 +240,7 @@ Onboarding, outreach, and application acceptance for Sig-Cans. Applications land
 Active 
 
 **Team Members:**  
-- rustinmyeye: Lead of Onboarding, Outreach, and Application Acceptance  
+- rustinmyeye: Lead of Onboarding and Outreach  
 
 **Help Needed:**  
 Add anyone who wants to be a Sig-Can 
