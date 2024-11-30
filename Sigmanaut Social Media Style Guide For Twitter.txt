@@ -1,0 +1,104 @@
+SOCIAL MEDIA STYLE GUIDE
+FOR TWITTER 
+
+1. The style guide tl;dr
+If you do not have time to read everything in this style guide, this section can give you the gist:
+    • Ensure the relevant amount of posts per day 
+    • Use hashtags
+    • Insert Media 
+    • Post at the right time 
+    • Analyze
+2. Voice and tone
+The tone of voice in the messages has to be consistent like it’s published by one person. Our voice humanizes the brand to let people take part in conversations naturally. 
+ERGO’s tone of voice is developed in accordance with the 4-dimension technique and would be described as follows: Funny, Casual, Respectful, Enthusiastic, Matter-of-fact, Personal conversational feel. 
+Example: If a message conveys incorrect info or there was a mistake in a post: - “What did you do!? You broke it! (Just kidding. We’re experiencing a problem on our end.).” or “Oops! We’re sorry, but we’re experiencing a problem on our end.”
+Suggested Tone: 
+Approachable: it is clear; we focus on something specific and simplify terms for average users and newcomers. 
+
+Reliable: we strive for expertise while not telling people to invest; we do not give any financial advice or create invitations for  “moon boys” 
+Respectful: never make light of a serious situation if it arises
+Upbeat: help the audience feel that we are approachable and accessible with our information and media; we want our community to converse and dive deeper into the materials/media we offer
+Serious: this tone is for any technical updates, partnerships, education
+Caring: we are committed to being professional and kind, even with a refined sense of humor. We easily enter into conversations with our audience, answer questions, and care about the product we represent - balancing confidence, and compassion (especially when the interactions are with potential new community members)
+The tone of voice can vary, so it is okay to make bold statements and engage with industry recognized crypto influencers  - this approach increases engagement but it’s highly important to show empathy and care in any situation. In other words, if you engage in debate, be sure to be respectful and positive. 
+Maintaining this tone with our Twitter account will not only help us reach more people (developers, hodlers) but also allow us to fully understand the needs of our community while we deliver updates, assurance, highlight the benefits of building with ERGO, and guide discussions.  
+3. Framework
+These are some of the rules that are most likely to come up in your day-to-day writing:
+    • Activity (up to 4 quality tweets a day): Relevant tweets = ranked tweets. Twitter will not show irrelevant tweets to a user's newsfeed. It may seem obvious but tweets do not necessarily show at the same time for all users. They can be postponed by algorithms and do not appear until several hours or days later. 
+One solution to making the Twitter account more active is to repeat tweets during the day. Do not do this in a row or within a close timeframe because the feed will be cluttered with the same news. Why? Every time you open up Twitter, the algorithm is relaunched so it means that different people always see the updated newsfeed and tweets never repeat for them. So, basically every time you send a Twitter post to the newsfeed, a different group of people will actually see that tweet. It's never the same people so it's okay to repeat them for different time zones. 
+As a result, we prepare 5 different tweets a day and repost them throughout the day. This approach also gets a lot of engagement. 
+    • Retweets: it's always better to make a quote tweet rather than retweet another brand’s post without commenting or rewording. This creates more engagement as you show your expertise and knowledge when referring to what you want to tweet - consider doing a small CTA (call to action).
+    • Tweeting at the right time. It's very important to tweet when people are online or else they never see your feed (unless the person goes specifically to the profile to check what is happening there). 
+A common schedule is generated in your Twitter profile ( You go to More - > Media Studio -> Insights to analyze the best time for posting in your specific case). It is very important to reach people when they are actually online on Twitter as well as schedule tweets in advance for relevant times. 
+    • Interaction: answer questions in threads; start conversations (from different accounts; ie get involved in the conversation with your personal twitter account). This is the main priority for community management.
+    • Twitter threads: Use Twitter threads when you need to create a post larger than 240 symbols for your announcement. Try to keep things short and sweet - this encourages you to focus on what you are trying to convey within your tweet. Being clear, concise and to the point is always the best approach.
+    • CTA (call to action): Tell people to read the post or watch a video with a simple CTA. Ask people to reply or retweet to encourage engagement. The CTA essentially needs to tell people what the next step is.
+When you want the community to reshare/retweet, you need to type RT for retweet at the beginning of the post. Then proceed to write the text (tweet). This way,  people will understand the instructions to retweet (it's important to use Twitter language).
+4. Formatting
+Here are our formatting guidelines:
+    • Up to 4 posts a day 
+    • 240 characters 
+    • links, infographics, videos, discussions + polls
+    • hashtags
+    • all content is prepared one or two days in advance 
+    • Additionally, for branding, we DO NOT re-tweet anyone from the community who mentions ERGO in their newsfeed. Some public members can be retweeted if they are influencers or core team members (needs to be checked). No more than 4 retweets a day. 
+5. Emoji usage
+When and how we use emoji:
+    • Always/regularly during announcements and discussions 💬  ⚖️  Σ  🔔  📌 
+    • Hands 👋  ✌️  🙌  🙏  👉  👇
+    • Emoticons 🤫  🤭  😮  🤤  🤑
+    • Situational signs❗️  💯   🛠  ⚙️  ⛓  💡  🔗  🔎  📚  🔜  🔚  ⏳🔒
+6. Hashtag usage
+When and how we use hashtags:
+    • Trending hashtags: #DeFi #crypto #blockchain #money $ERG #ERGO #DAO
+(no more than two hashtags per tweet for the best engagement rates; it’s best to hashtag words you’ve already used in your tweet to save the character limit) 
+    • Relevant own hashtags:  $ERG #ERGO #Ergo2Top10
+    • Situational relevance (example): #NFT #smartcontract #podcast #AMA #Bridges #Launch #Listing etc
+7. Multimedia usage
+People are more inclined to notice images or videos as opposed to a tweet that just has text. Here are our multimedia guidelines:
+    • Images: Canva - add your text + brand colors/identity, keep it minimal 
+        ◦ Never use .jpeg when publishing any graphic. That is an uncompressed format that loses 40% quality after being uploaded wherever it is going. The format “.png” or “gif” is always preferred.
+        ◦ No posting big announcements without a graphic! When using an external link for news always use the generated thumbnail.
+    • Videos: 15 sec is the best length - keeping it short boosts engagement.
+8. Tweet types
+What we do with Tweet types:
+    • Website: blog post, Medium, PR, any external sources 
+    • Quick questions: GM, what are you building today? How did you like our article **link**, etc. 
+Ask questions not only on the brand but also on trendy topics of the market. The best option for this is to generate discussions and polls as the main purpose for Twitter is conversation. Don’t forget to answer questions: from official profile + additional profiles of the core team. Creating conversations from multiple accounts helps to generate engagement. 
+    • Industry buzz: share statistics, facts, quick tips, everything that is simple and actionable - this shows expertise and increases retweets 
+    • Networking effort: to meet new people, start conversations, reach out to new people, mention them, give other colleagues a compliment (it's Twitter language) 
+For instance: 
+"hey @influencer, love your way of giving information and your perspective on blockchain development, @ feels very inspired" 
+9. What to tweet 
+    • news about ERGO (partnerships, technical updates (less), more updates on the possibilities of blockchain.  Mention individual dApps of the ecosystem and how ordinary people can use them
+    • news about the ecosystem 
+    • white paper & vision 
+    • regular dev updates 
+    • generate more discussions and polls on trending topics (bridges, metaverses, defi, etc). However, they need to be connected to ERGO. 
+    • Regular updates of numbers: transaction updates, users, market cap  
+    • Memes (smart ones) 
+10. Analytics
+
+    • Twitter - More-> Analytics -> google spreadsheet  
+    • Metrics: 
+        ◦ Tweet impressions 
+        ◦ Engagement (likes, retweets, comments) 
+        ◦ Audience sentiment
+    • Posting services: Sprout Social; one can find the optimal time schedule so your tweets get to the audience at the appropriate time
+11. Twitter Post Checklist
+        ◦ 4 Posts Per Day 
+        ◦ A Max of 4 Retweets a day and 4 hours apart. Retweets do not count towards max post per day.
+        ◦ All News/Announcements need to be shared across all active channels at the same time.
+        ◦ Make sure your post is 240 characters long 
+        ◦ Make sure you mentioned relevant people you’re going to talk to 
+        ◦ Make sure you embed two hashtags. Hashtags are mandatory
+        ◦ Make sure you insert a source link (bitly) that directs back to your material. Tracking URLs (Bitlys) need to be used for ALL URLS, directed to mainstream materials (Any dapp, the explorer, articles, ect.)
+        ◦ Make sure you insert media (image or video) 
+        ◦ Make sure you post at a good time - All posts should be 3-4 hours apart (+ see the schedule) 
+        ◦ Make sure you answer comments in your post 
+        ◦ Make sure you check the analytics of your post 
+12. Promotion 
+    • airdrops/ giveaways (prepared and confirmed before publishing)
+    • link building for Twitter 
+    • Twitter ads: profile/specific post ( #sponsored tag) 
+    • Influencer mentions 
