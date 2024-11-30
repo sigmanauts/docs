@@ -332,7 +332,6 @@ None listed
 
 **Links:**  
 - [Message from qx()](https://t.me/c/2164435763/1/13546)  
-- [Project Board](https://github.com/organization/sigmalock-board)  
 
 ---
 
