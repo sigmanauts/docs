@@ -8,3 +8,5 @@ On Paideia:
 -Grayman has posted a new discussion about adjusting the DAO config. Please take part in the converstion here: https://app.paideia.im/sigmanauts/discussion/adjustments-to-the-dao-config-a0253976-de2a-4102-af64-ec247795603c
 
 Wombo's initiative to raise 450 ERG to bootstrap liquidity for Danzo casino was a SUCCESS! The campaign managed to raise 486.9 ERG to boost adoption of rsErg on Cardano.
+
+Reminder to the Sigmanauts who can't attend the weekly meetings - the transcription can be found at: https://sigmanauts.com/minutes/2024-12-01-meeting/
