@@ -1,3 +1,6 @@
+# I have decided to abandon this idea! I will put more effor into sig updates instead. I dont think anyone would use this :)
+
+
 # Sigmanauts Project Tracker
 
 This document tracks all ongoing projects, the individuals involved, their contact information, and specific needs for each project. The goal is to provide a clear overview of current work and to facilitate collaboration.
