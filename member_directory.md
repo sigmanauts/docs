@@ -24,7 +24,7 @@ this directory has you covered.
 
 - Sig-Cans, you should know that it is up to you to ask to have a proposal made for full Sigmanaut status. You can ask at anytime. 
 
-- Check out the [Sigmanauts DAO](https://app.paideia.im/Sigmanauts) on paideia, for an idea of what has been voted on previously. Please read [this document](https://docs.ergoplatform.com/eco/paideia/) to learn how to use Paideia. 
+- Check out the [Sigmanauts DAO](https://app.paideia.im/sigmanauts) on paideia. For an idea of what has been voted on previously, visit the [Beta Paideia Sigmanauts DAO](https://beta.paideia.im/Sigmanauts). Please read [this document](https://docs.ergoplatform.com/eco/paideia/) to learn how to use Paideia. 
 
 - Here is a great [list of helpful resources](https://ergo.getgrist.com/jf9KPR1HUDJH/Project-Management/p/48).
 
