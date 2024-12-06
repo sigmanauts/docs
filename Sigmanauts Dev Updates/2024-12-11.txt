@@ -9,3 +9,5 @@ Cannon has an update on forming the DAO in Marshall Islands. Price has increased
 The community guidelines for Sigmanauts DAO document has been added to Sigmanauts website. See it here: https://sigmanauts.com/community-guidelines/
 
 Ergo Platform has joined Mastodon. Follow here: https://mastodon.world/@ergoplatform
+
+The Sigmanauts member directory is being reorganized to help track Sigmanaut's activity within the DAO. Please help add or change any info that may be missing or incorrect.
