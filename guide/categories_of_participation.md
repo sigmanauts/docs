@@ -47,9 +47,7 @@ Sigmanauts can contribute in diverse ways, leveraging their unique skills and pa
 - [Merch/Swag Store](projects_and_workstreams.md#merchswag-store)
   - Design merchandise
   - Develop marketing strategies
-- [ErgoHack Marketing](projects_and_workstreams.md#ergohack-marketing)
-  - Create promotional materials
-  - Design event collateral
+
 
 ### 4. Specialized Contributions
 **Purpose:** Support unique ecosystem needs with specialized skills.

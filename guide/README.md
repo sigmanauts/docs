@@ -74,7 +74,7 @@ The Sigmanauts program is more than a community—it's a collaborative journey t
 ## Connect With Us
 
 - [Ergo Discord](https://discord.gg/TBFXMzha7X)
-- [Telegram Group](https://t.me/ErgoSocials)
+- [Telegram Groups](https://t.me/ErgoSocials)
 - [GitHub Repository](https://github.com/cafebedouin/sigmanauts)
 
 ---

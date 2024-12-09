@@ -21,12 +21,14 @@ This document provides a comprehensive overview of the current initiatives, work
 | Erg0ne (PoCoP) Promotion    | Promoting decentralized marketing                  | Giufa                           | Active       | [Details](#erg0ne-pocop-promotion)     |
 | Merch/Swag Store            | Managing Ergo-branded merchandise                  | qx()                            | Active       | [Details](#merchswag-store)            |
 | Ergo Podcasts               | Podcast production and curation                    | rustinmyeye                     | Active       | [Details](#ergo-podcasts)              |
-| Social Media Management     | Overseeing social media platforms                  | Glasgow                        | Active       | [Details](#social-media-management)    |
+| Social Media Management     | Overseeing social media platforms                  | Glasgow, qx, Angie, rust                        | Active       | [Details](#social-media-management)    |
 | Sig-Mining Pool             | Community-driven mining pool                       | Marc the Shark, qx(), cannon    | In Progress  | [Details](#sig-mining-pool)            |
 | SigmaLock                   | Flexible token-locking solutions                  | qx(), mgpai                     | In Progress  | [Details](#sigmalock)                  |
 | Market Maker Management     | Overseeing market-making for Ergo Foundation       | qx(), cannon                    | In Progress  | [Details](#market-maker-management)    |
 | Sig-Can Onboarding          | Recruiting and integrating new contributors         | rustinmyeye                     | Active       | [Details](#sig-can-onboarding)         |
 | Regional Outreach           | Building local Ergo communities                    | Various                         | Ongoing      | [Details](#regional-outreach)          |
+| Editorial Team              | Content creation and blog management               | Angie, Glasgow                             | Active       | [Details](#editorial-team)             |
+| Community Moderation        | Managing chat channels and community interactions   | Glasgow                             | Active       | [Details](#community-moderation)       |
 
 
 ## Initiatives 
@@ -196,8 +198,6 @@ We encourage all Sigmanauts to:
 - Develop comprehensive documentation.
 - Create tutorial materials for users.
 
-
-
 ---
 
 ### Market Maker Management
@@ -243,6 +243,152 @@ We encourage all Sigmanauts to:
 **Next Steps:**
 - Translate core materials into regional languages.
 - Provide seed funding for grassroots events.
+
+---
+
+### Editorial Team
+
+**Description:** Managing content creation, blog contributions, and editorial efforts for the Ergo Platform. This initiative aims to produce high-quality, engaging content that promotes Ergo's ecosystem, technical innovations, and community perspectives.
+
+**Status:** Active
+
+**Key Objectives:**
+- Produce at least 3 articles per week
+- Maintain consistent, high-quality content across Ergo's media platforms
+- Provide diverse perspectives on blockchain technology and Ergo's innovations
+
+**Contribution Guidelines:**
+1. Post at least 3 articles weekly
+2. Confirm publication at least 1 day before release
+3. Ensure social media posts reflect Ergo's values
+4. Create eye-catching headlines with relevant keywords
+5. Prioritize content that highlights Ergo's economic impact
+6. Use storytelling and provide concrete examples
+7. Deliver all content via Google Docs
+8. Maintain an engaging and informative tone
+
+**Compensation:**
+- **20 SigUSD per 150 words** (paid monthly in ERG)
+- Payment processed after editor confirmation
+
+**Preferred Content Types:**
+- How-To Guides
+- Technical Tutorials
+- Trend Analysis
+- Comparative Blockchain Studies
+- Expert Opinions
+- Company News
+- Interviews
+- Infographics
+- FAQs and Explainers
+- Press Releases
+
+**Contribution Channels:**
+- Telegram: #editorial channel
+- Discord: #contributors channel
+
+**Resources:**
+- [Content Guidelines Document](https://docs.google.com/document/d/1ZOTEyYGt3XUK_BRaGIJXYy0SULhjtu95yy1_NZJSRfI/edit?tab=t.0)
+
+**Help Needed:**
+- Technical writers
+- Content creators
+- Blockchain enthusiasts
+- Community storytellers
+- Graphic designers for infographics
+
+**Next Steps:**
+- Establish a consistent content calendar
+- Recruit diverse contributors
+- Develop a comprehensive style guide
+- Create a submission and review process
+
+---
+
+### Community Moderation
+
+**Description:** Maintaining a positive, constructive, and engaging environment across Ergo's communication channels. Community moderators play a crucial role in preserving the quality of discussions, enforcing community guidelines, and ensuring a welcoming atmosphere for all participants.
+
+**Status:** Active
+
+**Key Responsibilities:**
+- Monitor chat channels for inappropriate content
+- Enforce community guidelines consistently
+- Mediate conflicts and maintain respectful dialogue
+- Provide timely warnings and take appropriate action against rule violations
+- Support new members and answer basic questions
+- Escalate serious issues to core team members
+
+**Moderation Channels:**
+- Telegram
+- Discord
+- Other official Ergo community platforms
+
+**Moderation Guidelines:**
+1. Remain neutral and objective
+2. Apply rules consistently to all community members
+3. Focus on constructive dialogue
+4. Prioritize community well-being
+5. Protect the community from spam, scams, and harmful content
+6. Maintain a professional and supportive tone
+
+**Permissions and Access:**
+- Request admin/moderator permissions in active chat channels
+- Access to moderation tools and reporting systems
+- Ability to:
+  - Mute users temporarily
+  - Remove inappropriate messages
+  - Ban repeat offenders
+  - Pin important community announcements
+
+**Escalation Process:**
+- Minor infractions: Verbal warning
+- Repeated minor infractions: Temporary mute
+- Serious violations: Temporary or permanent ban
+- Complex situations: Escalate to core team leadership
+
+**Help Needed:**
+- Multilingual moderators
+- Community members with strong communication skills
+- Individuals familiar with blockchain and crypto communities
+- Patient and empathetic communicators
+
+**Qualities of an Effective Moderator:**
+- Strong communication skills
+- Ability to remain calm under pressure
+- Quick decision-making
+- Fairness and impartiality
+- Technical understanding of blockchain ecosystem
+- Proactive problem-solving
+
+**Training and Support:**
+- Comprehensive onboarding process
+- Regular training sessions
+- Access to moderation best practices guide
+- Ongoing support from core team
+
+**Contribution Benefits:**
+- Develop leadership skills
+- Gain deep insights into community dynamics
+- Build reputation within the Ergo ecosystem
+- Potential path to more advanced community roles
+
+**Next Steps:**
+- Develop comprehensive moderation handbook
+- Create a structured moderator recruitment process
+- Implement regular performance reviews
+- Establish clear communication protocols
+- Develop a mentorship program for new moderators
+
+**Reporting and Feedback:**
+- Monthly community health reports
+- Feedback collection from community members
+- Continuous improvement of moderation strategies
+
+**Resources:**
+- Community Guidelines Document
+- Moderation Best Practices Guide
+- Escalation Flowchart
 
 ---
 
