@@ -19,7 +19,6 @@ This document provides a comprehensive overview of the current initiatives, work
 | Core Infrastructure Updates | Ensuring infrastructure reliability                 | qx()                            | In Progress  | [Details](#core-infrastructure-updates) |
 | DAO Legal Research          | Legal frameworks for DAOs                          | cannon                          | In Progress  | [Details](#dao-legal-research)         |
 | Erg0ne (PoCoP) Promotion    | Promoting decentralized marketing                  | Giufa                           | Active       | [Details](#erg0ne-pocop-promotion)     |
-| ErgoHack Marketing          | Marketing campaigns for ErgoHack                   | Glasgow                        | In Progress  | [Details](#ergohack-marketing)         |
 | Merch/Swag Store            | Managing Ergo-branded merchandise                  | qx()                            | Active       | [Details](#merchswag-store)            |
 | Ergo Podcasts               | Podcast production and curation                    | rustinmyeye                     | Active       | [Details](#ergo-podcasts)              |
 | Social Media Management     | Overseeing social media platforms                  | Glasgow                        | Active       | [Details](#social-media-management)    |
@@ -37,11 +36,13 @@ Each project below includes its current status, objectives, and ways community m
 ### Community Participation
 
 We encourage all Sigmanauts to:
+
 - Review current projects
 - Identify areas of interest
 - Reach out to project leads
 - Propose new initiatives
 - Collaborate and share expertise
+- **Update this document with any initiative you're working on**
 
 #### Bluesky & Nostr Management
 
@@ -108,21 +109,6 @@ We encourage all Sigmanauts to:
 - Develop a comprehensive onboarding guide for PoCoP.
 - Create video tutorials and explainer content.
 
-#### ErgoHack Marketing
-
-**Description:** Planning and executing marketing campaigns for ErgoHack events to attract participants and developers.
-
-**Status:** In Progress
-
-**Help Needed:**
-- Assist with creating promotional materials.
-- Develop outreach strategies for developer communities.
-- Design marketing collateral for event promotion.
-
-**Next Steps:**
-- Compile post-event reports and summaries for future iterations.
-- Create a standardized marketing toolkit for future ErgoHack events.
-- Establish partnerships with developer communities and platforms.
 
 #### Merch/Swag Store
 
