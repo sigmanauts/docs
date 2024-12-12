@@ -1,6 +1,10 @@
 Sigmanauts Update | December 11, 2024
 
-The second multi-sig for the Sigmanauts treasury has been formed.
+On Paideia there is a new proposal to pay Jumei for the MEW tokens. Please vote now: https://app.paideia.im/sigmanauts/proposal/pay-jumei-for-the-mew-c6620cb4-9527-4d60-b2ab-69697ecf28e3
+
+The Paideia discussion about changing the DAO config has been constructive, and Grayman will be working on the config update soon.
+
+The second multi-sig for the Sigmanauts treasury has been formed. Waiting on the orginal multisig members to transfer everything over.
 
 Grayman got a response back from Mojtaba Tefagh at Edinburgh University regarding running the node and associated services on their cloud servers. See pins in the Sigmanauts general chat to read the response.
 
@@ -10,4 +14,11 @@ The community guidelines for Sigmanauts DAO document has been added to Sigmanaut
 
 Ergo Platform has joined Mastodon. Follow here: https://mastodon.world/@ergoplatform
 
-The Sigmanauts member directory is being reorganized to help track Sigmanaut's activity within the DAO. Please help add or change any info that may be missing or incorrect.
+Ergo Platform has joined Threads. Follow here: https://www.threads.net/@ergo_platform
+
+The Sigmanauts GitHub organization could use more active Sigmanauts using it. Join of you want.
+
+Glasgow has added a great guide on the GitHub org. Docs can be read here: https://github.com/sigmanauts/docs/tree/main/guide
+
+
+
