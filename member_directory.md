@@ -29,7 +29,7 @@ this directory has you covered.
 - Here is a great [list of helpful resources](https://ergo.getgrist.com/jf9KPR1HUDJH/Project-Management/p/48).
   
 
-- Consider joining the [Sigmanauts GitHub Organization]((https://github.com/sigmanauts)!
+- Consider joining the [Sigmanauts GitHub Organization](https://github.com/sigmanauts)!
 
 ## Members as of September 5, 2025
 
