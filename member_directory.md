@@ -32,10 +32,9 @@ this directory has you covered.
 
 ## Members as of January 1, 2026
 <!-- STATUS_TOTALS_START -->
-- **Gone:** 5
 - **Sig:** 86
 - **Sig-Can:** 88
-- **Total:** 179
+- **Total:** 174
 <!-- STATUS_TOTALS_END -->
 
 | Name                        | Status  | About                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Availability                                                                                                                                                                                     | Contact Info                                           | Desired Pay                                                                                                                                                                                                          |
