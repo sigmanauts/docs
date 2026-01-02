@@ -33,7 +33,11 @@ this directory has you covered.
 ## Members as of January 1, 2026
 
 ## Member Status Totals 
-<!-- STATUS_TOTALS_START --> 
+<!-- STATUS_TOTALS_START -->
+- **Gone:** 5
+- **Sig:** 86
+- **Sig-Can:** 88
+- **Total:** 179
 <!-- STATUS_TOTALS_END -->
 
 
