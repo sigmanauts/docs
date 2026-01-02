@@ -37,7 +37,7 @@ jobs:
           statuses = []
           for row in rows[2:]:  # skip header + separator
               cols = [c.strip() for c in row.split('|')]
-              if len(cols) > 1 and cols[1]:
+              if len(cols) > 1 and cols[1] and cols[1] != "Gone":
                   statuses.append(cols[1])
 
           counts = Counter(statuses)
@@ -68,4 +68,3 @@ jobs:
           git add .
           git diff --cached --quiet || git commit -m "Auto-update member status totals"
           git push
-
