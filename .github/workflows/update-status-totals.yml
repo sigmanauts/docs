@@ -1,0 +1,70 @@
+name: Update Member Status Totals
+
+on:
+  push:
+    paths:
+      - "**.md"
+
+jobs:
+  update-totals:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update status totals
+        run: |
+          python << 'EOF'
+          import re
+          from collections import Counter
+          from pathlib import Path
+
+          FILE = Path("member_directory.md")
+
+          text = FILE.read_text(encoding="utf-8")
+
+          # Extract markdown table rows
+          rows = re.findall(r'^\|(.+?)\|$', text, re.MULTILINE)
+
+          statuses = []
+          for row in rows[2:]:  # skip header + separator
+              cols = [c.strip() for c in row.split('|')]
+              if len(cols) > 1 and cols[1] and cols[1] != "Gone":
+                  statuses.append(cols[1])
+
+          counts = Counter(statuses)
+          total = sum(counts.values())
+
+          output = [""]  # leading newline
+          for status, count in sorted(counts.items()):
+              output.append(f"- **{status}:** {count}")
+          output.append(f"- **Total:** {total}")
+
+          new_block = "\n".join(output) + "\n"
+
+          text = re.sub(
+              r'<!-- STATUS_TOTALS_START -->.*?<!-- STATUS_TOTALS_END -->',
+              f'<!-- STATUS_TOTALS_START -->{new_block}<!-- STATUS_TOTALS_END -->',
+              text,
+              flags=re.S
+          )
+
+          FILE.write_text(text, encoding="utf-8")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git diff --cached --quiet || git commit -m "Auto-update member status totals"
+          git push
