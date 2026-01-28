@@ -16,19 +16,21 @@ This document provides a comprehensive overview of the current initiatives, work
 | **Initiative**               | **Description**                                      | **Contact**                     | **Status**   | **Links**                          |
 |------------------------------|------------------------------------------------------|----------------------------------|--------------|-------------------------------------|
 | Bluesky & Nostr Management  | Outreach on decentralized platforms                 | rustinmyeye                     | Active       | [Details](#bluesky--nostr-management) |
-| Core Infrastructure Updates | Ensuring infrastructure reliability                 | qx()                            | In Progress  | [Details](#core-infrastructure-updates) |
-| DAO Legal Research          | Legal frameworks for DAOs                          | cannon                          | In Progress  | [Details](#dao-legal-research)         |
+| Core Infrastructure Updates | Ensuring infrastructure reliability                 | qx()                            | Active| [Details](#core-infrastructure-updates) |
+| DAO Legal Research          | Legal frameworks for DAOs                          | cannon                          | Completed  | [Details](#dao-legal-research)         |
 | Erg0ne (PoCoP) Promotion    | Promoting decentralized marketing                  | Giufa                           | Active       | [Details](#erg0ne-pocop-promotion)     |
 | Merch/Swag Store            | Managing Ergo-branded merchandise                  | qx()                            | Active       | [Details](#merchswag-store)            |
 | Ergo Podcasts               | Podcast production and curation                    | rustinmyeye                     | Active       | [Details](#ergo-podcasts)              |
 | Social Media Management     | Overseeing social media platforms                  | Glasgow, qx, Angie, rust                        | Active       | [Details](#social-media-management)    |
-| Sig-Mining Pool             | Community-driven mining pool                       | Marc the Shark, qx(), cannon    | In Progress  | [Details](#sig-mining-pool)            |
+| Sig-Mining Pool             | Community-driven mining pool                       | Marc the Shark, qx(), cannon    | Active  | [Details](#sig-mining-pool)            |
 | SigmaLock                   | Flexible token-locking solutions                  | qx(), mgpai                     | In Progress  | [Details](#sigmalock)                  |
-| Market Maker Management     | Overseeing market-making for Ergo Foundation       | qx(), cannon                    | In Progress  | [Details](#market-maker-management)    |
+| Market Maker Management     | Overseeing market-making for Ergo Foundation       | qx(), cannon                    | Active  | [Details](#market-maker-management)    |
 | Sig-Can Onboarding          | Recruiting and integrating new contributors         | rustinmyeye                     | Active       | [Details](#sig-can-onboarding)         |
-| Regional Outreach           | Building local Ergo communities                    | Various                         | Ongoing      | [Details](#regional-outreach)          |
+| Regional Outreach           | Building local Ergo communities                    | Various - who are the folks Giufa, etc? | Ongoing      | [Details](#regional-outreach)          |
 | Editorial Team              | Content creation and blog management               | Angie, Glasgow                             | Active       | [Details](#editorial-team)             |
-| Community Moderation        | Managing chat channels and community interactions   | Glasgow                             | Active       | [Details](#community-moderation)       |
+| Community Moderation        | Managing chat channels and community interactions   | Glasgow & Sigs                          | Active       | [Details](#community-moderation)       |
+| Ergo Meeting Archive        | Transcribe and provide notes/search/etc for Ergo public meetings | CannonQ                |Active  | [Details](#ergo-meeting-archive) |
+
 
 
 ## Initiatives 
@@ -389,6 +391,43 @@ We encourage all Sigmanauts to:
 - Community Guidelines Document
 - Moderation Best Practices Guide
 - Escalation Flowchart
+
+---
+### Ergo Meeting Archive
+
+** Description ** Transcribing Ergo ecosystem videos into searchable, discoverable knowledge. Community calls, AMAs, technical discussions, and conference talks—from 2019 to present.
+
+** Status ** Active
+
+**Key Objectives:**
+- Archive all calls, spaces, interviews of key devs (e.g. Kushti on Vlad Kosta podcast, etc)
+- Structure data for vector search and AI retrieval
+- AI assistant with semantic search
+- AI-assisted, not AI-only. Use automation for tedious work (transcription, speaker identification, formatting) but preserve human validation where accuracy matters most.
+
+**Contributing / Need Help:**
+1. AI/ML:
+- Chatbot interface for natural language search
+- Vector embedding optimization for transcript data
+- RAG system design for accurate information retrieval with source citations
+2. Content Quality:
+- Review early batch transcripts (processed before glossary matured to 300+ terms)
+- Review historical backfill content (2019-2023) as it gets processed
+- Submit corrections via the website: Click "Suggest Correction" on any transcript page. This creates a GitHub Issue (no account required). GitHub Actions automatically triggers Claude to review your correction. Claude will either: (1) approve with suggested changes, (2) reject with reasoning, or (3) flag for human review. Approved corrections still require manual PR creation—this prevents automated spam while streamlining the review process.
+- Direct edits: Fork the repo and submit PRs for transcript/Q&A/metadata changes if you prefer full control
+- Flag edge case technical terms not yet in glossary
+- Improve speaker identification accuracy
+3. Infrastructure:
+- Processing pipeline optimization
+- Search performance improvements
+- Quality metrics and monitoring dashboards
+4. UX:
+- Advanced search interface design
+- Data visualization (topic networks, decision timelines, contributor graphs)
+- Mobile experience optimization
+
+**Compensation:**
+- Sustainable funding model (grants, bounties, or protocol integration)
 
 ---
 
